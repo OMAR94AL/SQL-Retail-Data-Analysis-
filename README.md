@@ -19,7 +19,7 @@ Each table has a well-defined schema with relevant constraints like primary keys
 
 ## Sample Data
 
-The database is populated with at least 100 rows per table. This ensures sufficient data for analysis using:
+The database is populated with at least 15 rows per table. This ensures sufficient data for analysis using:
 
 - `LEFT JOIN`, `INNER JOIN`, `CROSS JOIN`
 - `GROUP BY`, `WHERE`, `HAVING`, `ORDER BY`
